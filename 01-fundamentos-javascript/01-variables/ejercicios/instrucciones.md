@@ -37,13 +37,13 @@ Declara tres variables: usuario, actividad y tiempo.
 
 - Reto: Crea una variable mensaje que una todo usando Template Literals (comillas invertidas) para formar la frase: "Hola [usuario], hoy completaste tu rutina de [actividad] en [tiempo]. ¡Buen trabajo!".
 
-### 6. El Conversor de Temeratura
+### 6. El Conversor de Temperatura
 
-Crea un script que convierta grados Celcius en Fahrenheit y Kevlin.
+Crea un script que convierta grados Celsius en Fahrenheit y Kevlin.
 
-- Datos: Una variable celcius = 25.
+- Datos: Una variable celsius = 25.
 - Fórmula: Fahrenheit: $(Celsius \times 9/5) + 32$
-  - Kevin: $Celsius + 273.15$
+  - Kelvin: $Celsius + 273.15$
 - Reto: Muestra un solo mensaje que diga: "25°C equivalen a 77°F y 298.15K". Si cambias el valor de celsius, el mensaje debe actualizarse solo.
 
 ### 7. El Repartidor de Gastos
