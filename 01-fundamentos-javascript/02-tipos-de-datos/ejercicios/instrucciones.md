@@ -13,12 +13,12 @@ Imagina que recibes el nombre de un usuario desde un formulario web muy mal llen
 Tienes un texto largo que representa la descripción de un producto.
 
 - **Dato:** `let descripcion = "Este televisor 4K cuenta con tecnología OLED y sonido Dolby Atmos.";`
-- **Reto:** Crea una variable booleana llamada ``tiene4K` que verifique si la palabra "4K" existe dentro del string (investiga el método `.includes()`).
+- **Reto:** Crea una variable booleana llamada `tiene4K` que verifique si la palabra "4K" existe dentro del string (investiga el método `.includes()`).
 - **Resultado esperado:** `true` o `false` en consola.
 
 ### 3. El Generador de Correos (Manipulación de Strings)
 
-Un cliente nuevo se registra. Tienes su ``nombre = "Lucía"` y su `apellido = "García"`.
+Un cliente nuevo se registra. Tienes su `nombre = "Lucía"` y su `apellido = "García"`.
 
 - **Reto:** Crea un correo electrónico institucional que sea: la inicial del nombre + el apellido + "@https://www.google.com/search?q=empresa.com". Todo debe estar en minúsculas.
 - **Pista:** Usa `.charAt(0)` o el acceso por índice `[0]` para la inicial.
