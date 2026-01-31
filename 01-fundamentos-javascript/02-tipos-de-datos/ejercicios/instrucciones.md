@@ -20,7 +20,7 @@ Tienes un texto largo que representa la descripción de un producto.
 
 Un cliente nuevo se registra. Tienes su `nombre = "Lucía"` y su `apellido = "García"`.
 
-- **Reto:** Crea un correo electrónico institucional que sea: la inicial del nombre + el apellido + "@https://www.google.com/search?q=empresa.com". Todo debe estar en minúsculas.
+- **Reto:** Crea un correo electrónico institucional que sea: la inicial del nombre + el apellido + "@empresa.com". Todo debe estar en minúsculas.
 - **Pista:** Usa `.charAt(0)` o el acceso por índice `[0]` para la inicial.
 - **Resultado esperado:** `"lgarcia@empresa.com"`
 
