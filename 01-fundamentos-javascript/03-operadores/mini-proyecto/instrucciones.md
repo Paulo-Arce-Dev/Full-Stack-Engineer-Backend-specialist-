@@ -16,12 +16,9 @@ Declara las siguientes variables del cliente:
 2. **Variable** `puntajeCredito`: Debe verificar si el cliente **NO** tiene deudas pendientes (`!tieneDeudasPendientes`).
 
 3. **Variable** `estadoPrestamo`: Usa **operadores ternarios encadenados** para asignar el resultado:
-
-- Si tiene los `requisitosBasicos` **Y** el `puntajeCredito` es bueno: **"APROBADO"**.
-
-- Si no cumple lo anterior, pero `esClientePremium` es `true` **Y** el `salarioMensual` es muy alto (mayor a 5000): **"EN REVISIÓN"**.
-
-- En cualquier otro caso: **"RECHAZADO"**.
+   - Si tiene los `requisitosBasicos` **Y** el `puntajeCredito` es bueno: **"APROBADO"**.
+   - Si no cumple lo anterior, pero `esClientePremium` es `true` **Y** el `salarioMensual` es muy alto (mayor a 5000): **"EN REVISIÓN"**.
+   - En cualquier otro caso: **"RECHAZADO"**.
 
 4. **Variable** `cuotaMensual`: Calcula el monto solicitado dividido 12 (meses), pero sumale un 5% de interés usando `*= 1.05`.
 
