@@ -22,7 +22,7 @@ Declara las siguientes variables del cliente:
 
 4. **Variable** `cuotaMensual`: Calcula el monto solicitado dividido 12 (meses), pero sumale un 5% de interés usando `*= 1.05`.
 
-**Output Final esperado (en un solo console.log con Template Literal):**
+**Output Final esperado:**
 
 ```
 ======== BANCO JS - ESTADO DE CRÉDITO ========
