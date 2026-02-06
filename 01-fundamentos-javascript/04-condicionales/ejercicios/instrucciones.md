@@ -1,6 +1,6 @@
 # Ejercicios de Condicionales en JavaScript
 
-### 1. Sistema de Clificaciones
+### 1. Sistema de Calificaciones
 
 Crea un programa que asigne una letra según la nota de un examen.
 
