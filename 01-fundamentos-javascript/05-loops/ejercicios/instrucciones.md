@@ -5,7 +5,7 @@
 Necesitamos una cuenta regresiva para el lanzamiento de un cohete.
 
 - **Reto:** Crea un bucle `for` que cuente del 10 al 1.
-- **Resultado esperado:** En cada iteración, debe imprimir: `"Despegue en 10...", "Despegue en 9..."`, etc. Al terminar el bucle, debe imprimir: `"¡IGNICIÓN! 🚀"`.
+- **Resultado esperado:** En cada iteración, debe imprimir: `"Despegue en 10...", "Despegue en 9..."`, etc. Al terminar el bucle, debe imprimir: `"¡DESPEGUE! 🚀"`.
 
 2. **La Tabla de Multiplicar (Ciclo `for`)**
 
@@ -52,7 +52,6 @@ Este ejercicio es para dominar el control del bucle.
 Este es el desafío de lógica más fuerte de esta sección.
 
 - **Reto:** Usa dos bucles `for` (uno dentro de otro) para dibujar un triángulo de asteriscos en la consola.
-
 - **Resultado esperado:**
 
 ```
